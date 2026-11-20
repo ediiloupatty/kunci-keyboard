@@ -1,0 +1,4 @@
+# hasil build: dibagikan lewat Releases, bukan di repo
+*.exe
+*.bak
+*.pdb
